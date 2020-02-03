@@ -1,0 +1,14 @@
+{
+    "name": "dayvid/volley",
+    "description": "Projeto para montar times de volley",
+    "authors": [
+        {
+            "name": "Dayvid Mesquita",
+            "email": "dayvid.ms@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
